@@ -1,2 +1,3 @@
 # CS-255-System-Analysis-and-Design
-System analysis and design artifacts for CS-255 at SNHU, including UML diagrams, system documents, and client presentation materials.
+This repositroy contains coursework and portfolio artifacts from CS 255 at Southern New Hampshire University.
+
